@@ -1,6 +1,6 @@
 @echo off
 
-set "basepath=C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\win64"
+set "basepath=C:\Users\jon-1\Desktop\GarrysMod\bin\win64"
 set "gmad=%basepath%\gmad.exe"
 set "gmpublish=%basepath%\gmpublish.exe"
 
