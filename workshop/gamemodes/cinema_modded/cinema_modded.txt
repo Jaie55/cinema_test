@@ -42,5 +42,13 @@
 			"type"		"CheckBox"
 			"default"	"1"
 		}
+		5
+		{
+			"name"		"cinema_force_extension_bypass"
+			"text"		"(En desarrollo) Bypass de extensiones"
+			"help"		"(Experimental) Permite poner cualquier video, sin necesidad de verificar su extensión."
+			"type"		"CheckBox"
+			"default"	"1"
+		}
 	}
 }
