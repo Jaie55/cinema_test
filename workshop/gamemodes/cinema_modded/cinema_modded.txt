@@ -1,46 +1,46 @@
 "Gamemode"
 {
 	"base"			"base"
-	"title"			"Cinema (Fixed Edition)"
+	"title"			"Cinema (Jaie55 Edition)"
 	"menusystem" 	"1"
 	"maps" 			"theater|theater_|cinema_"
 	"category"		"other"
-	"workshopid"	"2419005587"
+	"workshopid"	"3066799276"
 
 "settings"
 	{
 		1
 		{
 			"name"		"cinema_enable_sandbox"
-			"text"		"Enable Sandbox"
-			"help"		"(Experimental) Enables the sandbox functionalities"
+			"text"		"Habilitar el modo Sandbox"
+			"help"		"(Experimental) Habilita las funcionalidades del modo Sandbox"
 			"type"		"CheckBox"
-			"default"	"0"
+			"default"	"1"
 			"singleplayer" "1"
 		}
 		2
 		{
 			"name"		"cinema_allow_3dvoice"
-			"text"		"Allow 3D Voice"
-			"help"		"Use 3D voice chat."
+			"text"		"Permitir voz 3D"
+			"help"		"Utiliza el chat en 3D."
 			"type"		"CheckBox"
 			"default"	"1"
 		}
 		3
 		{
 			"name"		"cinema_allow_voice"
-			"text"		"Allow Voice in Theater"
-			"help"		"Allow theater viewers to talk amongst themselves."
+			"text"		"Permitir voz en teatros"
+			"help"		"Permitir a la gente hablar entre ellos en el teatro."
 			"type"		"CheckBox"
-			"default"	"0"
+			"default"	"1"
 		}
 		4
 		{
 			"name"		"cinema_allow_reset"
-			"text"		"Allow Reset"
-			"help"		"Reset the theater after all players have left."
+			"text"		"Permitir reset"
+			"help"		"Resetea el teatro después de que todos hayan salido."
 			"type"		"CheckBox"
-			"default"	"0"
+			"default"	"1"
 		}
 	}
 }
